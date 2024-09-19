@@ -2,3 +2,5 @@ a.out
 fine.txt
 launch.json
 settings.json
+.gitignore
+test.c
